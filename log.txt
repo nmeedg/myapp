@@ -1,0 +1,12 @@
+765137e (HEAD -> test) Ajout du fichier de test du hard
+0997207 (master) Add git reset
+9658dde Fin du stash
+4968da5 Ajout de l'operation git stash
+4a93750 Debut du git stash
+af3ae09 Add cherry pick on readme
+ca83247 hotfix on note
+df21d04 Add rebase in note
+fac6fd9 Ajout du rebase dans readme.md
+25a7b0e ajout des note pour le travail en remote
+8d57d7c Ajout du readme.md
+
