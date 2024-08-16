@@ -1,0 +1,4 @@
+git remote add mainstraeam http:domaine.name
+git fetch mainstream master
+git pull mainstream master
+git push origin master
