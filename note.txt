@@ -8,3 +8,8 @@ git branch -d or -D feature1
 git cherry-pick "<reference du coomit>
 debut du git stash
 git stash execute et en WIP(working in progress)
+debut du git reset : 3 cas
+> --soft deplace le head seulement le HEAD
+> --mixed deplace le head et vide les indexed
+> --hard deplace le head, les indexed et le working directory seulement le HEAD
+
