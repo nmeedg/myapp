@@ -4,3 +4,5 @@ git pull mainstream master
 git push origin master
 
 git rebase test on feature1
+git branch -d or -D feature1
+git cherry-pick "<reference du coomit>
