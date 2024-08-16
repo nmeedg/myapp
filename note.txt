@@ -3,4 +3,4 @@ git fetch mainstream master
 git pull mainstream master
 git push origin master
 
-git rebase test on feature2
+git rebase test on feature1
