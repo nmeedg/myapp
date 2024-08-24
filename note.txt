@@ -13,3 +13,4 @@ debut du git reset : 3 cas
 > --mixed deplace le head et vide les indexed et laisse les modifications
 > --hard deplace le head, les indexed et le working directory seulement le HEAD
 
+git push origin <local_branch>:<remote_branch>
